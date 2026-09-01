@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Specific Aims",
+    "query": "write specific aims for this NIH proposal",
+    "nofo_topics": [
+      "Significance review criteria"
+    ],
+    "word_limit": 550
+  },
+  {
+    "name": "Significance",
+    "query": "draft the Significance section of this NIH proposal",
+    "nofo_topics": [
+      "Significance review criteria"
+    ],
+    "word_limit": 2000
+  },
+  {
+    "name": "Innovation",
+    "query": "draft the Innovation section",
+    "nofo_topics": [
+      "Innovation review criteria"
+    ],
+    "word_limit": 1200
+  },
+  {
+    "name": "Approach",
+    "query": "draft the NIH Approach section",
+    "nofo_topics": [
+      "Approach review criteria"
+    ],
+    "word_limit": 3400
+  }
+]
